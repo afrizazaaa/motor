@@ -41,7 +41,7 @@ public class motoraksi {
         cbr.cetakInfo();
         
                 
-                
+       cbr.cetakInfo();
                 
     }
 }
